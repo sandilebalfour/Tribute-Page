@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+    color: white;
+    border-bottom: 5px solid white;
+    background-color: #58afc7;
+    margin-top: -1%;}
+    
+    img {display: block;}
+    
+    #image {max-width: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    }
+    
+    body {
+      background-color: #a9c2c9;
+      }
+    figcaption 
+    {color: white;
+    font-size: 30px;
+    text-align: center;
+    }
+    h3 {
+      text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid white;
+    }
+    footer {
+      border-top: 5px solid white;
+      background-color: #58afc7;
+      }
+    span {
+      font-weight: bold;
+      }
+    #timeline {
+      font-size: 25px;
+      }
+      h4 {font-size: 25px;}
+      a:hover {color: red;}
